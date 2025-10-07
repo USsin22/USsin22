@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Yassin Benhadi
 
-<!--
-**USsin22/USsin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Digital Development student from Morocco with a passion for building modern web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+### 💼 Profession / Current Role
+**Digital Development Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Top Skills
+- HTML, CSS, JavaScript
+- React, PHP, MySQL
+- Web Development
+
+### 🌱 Currently Learning
+- Full-stack development
+- Advanced React projects
+
+### 🎯 Goal
+Build professional, real-world projects and contribute to meaningful applications.
+
+### 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/yassinbenhadi)
+- [Portfolio](https://your-portfolio-link.com)
+
+---
+
+### 🚀 Favorite Projects
+- **Service Platform:** Full-stack platform connecting clients & professionals
+- **React Dashboard:** Admin dashboard with charts and login system
+- **Portfolio Website:** My personal portfolio
+
+---
+
+### 😄 Fun Facts / Hobbies
+- I enjoy coding small projects, learning new frameworks, and exploring modern web trends
+- I like to experiment with design and animation in web projects
+- Passionate about continuous learning and building skills for the future
