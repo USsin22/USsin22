@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlignY=80&descAlign=48"/>
-
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=41C6FF&center=true&multiline=true&width=439&lines=Welcome+to+my+GitHub!;I%E2%80%99m+Yassine+Benhadi;a+Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
 <!-- Top Wave Animation -->
 
 ---
